@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <h4><!-- 0J03013 下川晶万 --></h4>
+    <h4>0J03013 下川晶万</h4>
     Getメソッドで送られてきた複数のデータを受け取る。><br>
         <?php
         echo "出席番号:" . $_GET['course'] . $_GET['class'] . $_GET['number'] . "、氏名:" . $_GET['name'];
